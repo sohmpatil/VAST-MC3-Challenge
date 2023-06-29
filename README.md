@@ -44,15 +44,7 @@ The line bar chart aims to show the average rent per building along with the ave
 The calendar heatmap shows the day-by-day income of specific schools, pubs and restaurants.They are color coded in such a way that the darker the color the more the income on that day. So, the schools get paid only on the last day of each month. The restaurants have darker colors on weekdays which shows they get more customers on weekdays. Whereas pubs have more business on weekends.
 
 
-## 5. Members
-- Anisha Das
-- Roshan Jacob Manoj
-- Sanika Yatin Gandhe
-- Sanket Surendra Kapse
-- Sarthak Singh Chauhan
-- Soham Prabhakar Patil
-
-## 6. Addressing the questions?
+## 5. Addressing the questions?
 Using the map chart, we concluded that the businesses operating in the center of the city perform better than businesses which are on the periphery. The map can be used to find areas of affluence in the city and can be used to answer the first question, by changing the time filter according to the needs.The map also helps in showcasing the health of the employers. This can be seen by changing the time filters and seeing the progress of employers.
 The Stream chart is very useful for noticing the changes in wages and expenditure during the 15-month time period. We see that people spend most of their money at the end of the month and rent is a large percentage of their average expenditure. The average wage and expenditure of the people seems to be more or less the same during the time, as concluded from the minimal change in width of their particular streams. One more interesting insight gathered from the streams is that the average expenditure of the masses on education is very low. People spend more on recreation than on education. 
 The Density chart helps the user gauge an understanding of which education level pays the highest. It also gives the decision makers an understanding of the market requirements in terms of education and can guide them in showing areas which are lacking. Through the minimum wage filter on the density chart we found out that as the minimum wage increases, the jobs for lesser-educated people decrease . A high school degree will get you a maximum of 60 dollars per hour in the city, and jobs paying higher than this threshold strictly require a bachelors or a graduate level of education.  
