@@ -1,4 +1,4 @@
-# Data Visualization Final Project
+# VAST MC3 Economical Health
 
 ## 1. Mini Challenge 3: Economic Issues and Financial Health:
 - Dataset: [Vast Challenge 2022 Dataset](https://vast-challenge.github.io/2022/description.html)
