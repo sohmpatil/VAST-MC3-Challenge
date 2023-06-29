@@ -1,4 +1,4 @@
-# VAST MC3 Economical Health
+# VAST MC3 2022 Economic Issues and Financial Health
 
 ## 1. Mini Challenge 3: Economic Issues and Financial Health:
 - Dataset: [Vast Challenge 2022 Dataset](https://vast-challenge.github.io/2022/description.html)
